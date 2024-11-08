@@ -9,3 +9,8 @@ Atividades da disciplina
 - [Atividade7](atividade7.html)
 - [Atividade8](atividade8.html)
 - [Atividade9](atividade9.html)
+- [Atividade10](atividade10.html)
+- [Atividade11](atividade11.html)
+- [Atividade12](atividade12.html)
+- [Atividade13](atividade13.html)
+- [Atividade14](atividade14.html)
