@@ -12,5 +12,5 @@ Atividades da disciplina
 - [Atividade10](atividade10.html)
 - [Atividade11](atividade11.html)
 - [Atividade12](atividade12.html)
-- [Atividade13](atividade13.html)
+- [Atividade13](Atividade13.html)
 - [Atividade14](atividade14.html)
